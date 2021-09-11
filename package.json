@@ -2,6 +2,9 @@
   "name": "master-template",
   "version": "0.1.0",
   "private": true,
+  "engines":{
+    "node" : "6.14.13"
+  },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
